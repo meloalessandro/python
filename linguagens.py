@@ -3,7 +3,7 @@
 
 import math
 import random
-##dct={} ## Define o dicionário dct como vazio
+dct={} ## Define o dicionário dct como vazio
 dct = {1: 'HTML', 2: 'BASIC', 3: 'JAVA', 4: 'COBOL', 5: 'FORTRAN', 6: 'DELPHI', 7: 'C#', 8: 'C++', 9: 'PASCAL'} ## PARA TESTES
 
 def linguagem (lg): ## lg é a váriável que contém a linguagem que está sendo pesquisada
