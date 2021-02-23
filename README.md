@@ -1,4 +1,4 @@
-# python
+# Python
 Exercícios iniciais em Python - BÁSICO
 
 Exercícios para aprendizado das seguintes skills:
