@@ -10,6 +10,13 @@ Exercícios para aprendizado das seguintes skills:
 - atribuições;
 - uso de random (aleatoriedade)
 
+##################################################################
+Propósito do 'calcular.py'
+
+Programa básico em Python, tradicional calculadora.
+
+
+##################################################################
 Propósito do 'linguagens.py'
 
 O programa cria uma lista de linguagens de programação cadastradas. 
