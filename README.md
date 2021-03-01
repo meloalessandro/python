@@ -1,5 +1,5 @@
 # Python
-###Exercícios iniciais em Python - BÁSICO
+### Exercícios iniciais em Python - BÁSICO
 
 Exercícios para aprendizado das seguintes skills:
 - importação de bibliotecas;
